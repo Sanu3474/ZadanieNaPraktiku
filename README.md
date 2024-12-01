@@ -1,2 +1,3 @@
 # ZadanieNaPraktiku
 задание
+Степаненко
